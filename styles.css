@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
-    font: size 22px;
+    font: size 26px;
     line-height: 1.5;
     background-color: #def0fa;
     color: #222;
@@ -203,5 +203,6 @@ margin-top: 0;
   align-items: center;    
   gap: 30px;              
 }
+
 
 
